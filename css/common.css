@@ -23,9 +23,16 @@ nav a {
 }
 /* nav用 end*/
 
+footer {
+    text-align: right;
+    margin: 5px;
+}
+
 .top-page{
-    color: red;
-    height: 90vh;
+    color: yellow;
+    height: 85vh;
+
+    background-color: #000080;
 
     display: flex;
     flex-direction: column;
