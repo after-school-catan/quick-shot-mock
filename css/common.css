@@ -23,6 +23,11 @@ nav a {
 }
 /* nav用 end*/
 
+footer {
+    text-align: right;
+    margin: 5px;
+}
+
 .top-page{
     color: red;
     text-align: center;
